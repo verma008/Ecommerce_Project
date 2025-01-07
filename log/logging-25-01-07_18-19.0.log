@@ -1,0 +1,31 @@
+2025-07-19 18:19:40.176 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-19 18:19:40.393 INFO  [Thread-5] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9999"]
+2025-07-19 18:19:43.178 INFO  [Thread-5] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-07-19 18:19:43.184 INFO  [Thread-5] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-19 18:19:43.214 INFO  [Thread-5] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-19 18:19:43.411 INFO  [restartedMain] c.s.e.EcommerceSprinbootProjectApplication - Starting EcommerceSprinbootProjectApplication using Java 17.0.7 with PID 19164 (E:\SPRINGBOOT MODIFIED PROJECT FOLDER\sts-4.19.0.RELEASE\Spring-Project\Ecommerce_Sprinboot_Project\target\classes started by Archana in E:\SPRINGBOOT MODIFIED PROJECT FOLDER\sts-4.19.0.RELEASE\Spring-Project\Ecommerce_Sprinboot_Project)
+2025-07-19 18:19:43.413 INFO  [restartedMain] c.s.e.EcommerceSprinbootProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-19 18:19:44.050 INFO  [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-07-19 18:19:44.081 INFO  [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
+2025-07-19 18:19:44.460 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 9999 (http)
+2025-07-19 18:19:44.461 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2025-07-19 18:19:44.463 INFO  [restartedMain] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-19 18:19:44.463 INFO  [restartedMain] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2025-07-19 18:19:44.569 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-07-19 18:19:44.569 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1153 ms
+2025-07-19 18:19:44.721 INFO  [restartedMain] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-07-19 18:19:44.730 INFO  [restartedMain] o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-07-19 18:19:44.757 INFO  [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-07-19 18:19:44.761 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-19 18:19:44.792 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3799d13a
+2025-07-19 18:19:44.792 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-19 18:19:44.795 WARN  [restartedMain] org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-07-19 18:19:44.942 INFO  [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-07-19 18:19:44.960 INFO  [restartedMain] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-07-19 18:19:48.293 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2025-07-19 18:19:48.328 WARN  [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-07-19 18:19:48.768 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-07-19 18:19:48.937 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2025-07-19 18:19:48.943 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 9999 (http) with context path '/'
+2025-07-19 18:19:48.956 INFO  [restartedMain] c.s.e.EcommerceSprinbootProjectApplication - Started EcommerceSprinbootProjectApplication in 5.614 seconds (process running for 218.391)
+2025-07-19 18:19:48.961 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged

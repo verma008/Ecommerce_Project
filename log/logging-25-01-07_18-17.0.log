@@ -1,0 +1,1 @@
+2025-07-17 18:17:58.599 INFO  [http-nio-9999-exec-4] c.s.e.controller.ProductController - Adding a new product: com.springboot.ecommerce.DTO.ProductRequestDTO@510605c3
