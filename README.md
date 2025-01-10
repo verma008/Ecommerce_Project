@@ -1,5 +1,5 @@
  **************************** Backend REST API Documentation *******************************************
-This project is a secure backend REST API for an e-commerce application that supports user authentication, product management, and database integration. Also, I have enabled proper logging  using SLF4J/logback for debugging and monitoring
+This project is a secure backend REST API for an e-commerce application that supports user authentication, product management, and database integration. Also, I have enabled proper logging  using SLF4J/logback for debugging and monitoring.
 
 Database Configuration:
     The database schema for the Ecommerce_Project contains two tables:
