@@ -14,7 +14,7 @@ Authentication Workflow:
           "firstName":"Archana",
           "lastName":"Verma",
           "email":"archana@gmail.com",
-          "password":"arch  Request Body:ana"
+          "password":"archana"
       }
 
   2. User Login & Token Generation (Login API): Endpoint for user login, which generates a JWT token upon successful authentication.
